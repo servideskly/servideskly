@@ -114,17 +114,15 @@ Thank you for your support!
 
 ## License
 
-Copyright (C) 2026 the ServiDeskly authors.
+Copyright (c) 2026 the ServiDeskly authors.
 
-ServiDeskly is free software: you can redistribute it and/or modify it under
-the terms of the **GNU Affero General Public License** as published by the
-Free Software Foundation, either version 3 of the License, or (at your
-option) any later version. See [LICENSE](LICENSE).
+ServiDeskly is released under the **MIT License** - see [LICENSE](LICENSE).
 
-In short: you may use, change and host it, including commercially. If you
-run a **modified** version as a service for others, you must offer them the
-source of your version - set `SOURCE_URL` to your repository, and the link at
-the foot of every page points there.
+In short: use it, change it, host it, sell it, keep your changes to
+yourself. The only condition is that the copyright notice travels with the
+code. If you do run a modified version, setting `SOURCE_URL` to your own
+repository points the link at the foot of every page at it - a courtesy
+rather than a requirement.
 
 The six bundled fonts are under the SIL Open Font License 1.1
 ([public/fonts/NOTICES.md](public/fonts/NOTICES.md)).

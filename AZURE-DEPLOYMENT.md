@@ -124,9 +124,9 @@ Vault settings show a green tick. A red cross is almost always the role
 assignment or a secret name; set the setting again once it is fixed.
 
 If you run a **modified** copy, also set `SOURCE_URL` to your own repository:
-every page links to the source it runs. The license (GNU AGPL 3.0) asks
-exactly that: whoever uses a modified version over the network is offered
-its source.
+every page links to the source it runs. The MIT License does not require
+it; it is simply the honest thing to point at the code somebody is
+actually using.
 
 ## 6. Deploy
 
